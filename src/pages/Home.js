@@ -30,6 +30,7 @@ const Home = () => {
     <div class="card-body">
         
       <h5 class="card-title">ADMIN</h5>
+      <div>Hello</div>
       <Link to = "/admin-signin" >
       <a href="#" class="btn btn-primary">Login</a>
       </Link>
